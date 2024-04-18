@@ -1,18 +1,15 @@
 {
   "files": {
-    "main.css": "/web-app-voice-react/static/css/main.d6cb5071.css",
-    "main.js": "/web-app-voice-react/static/js/main.2116ce98.js",
-    "static/js/453.54cde324.chunk.js": "/web-app-voice-react/static/js/453.54cde324.chunk.js",
-    "static/media/logo-chatgpt.png": "/web-app-voice-react/static/media/logo-chatgpt.cd445c81a320be6e3c57.png",
-    "static/media/logo-youtube.png": "/web-app-voice-react/static/media/logo-youtube.1f1f701676b2c2c33abe.png",
-    "static/media/logo-google.png": "/web-app-voice-react/static/media/logo-google.4e8898271ed52ab15ab9.png",
-    "index.html": "/web-app-voice-react/index.html",
-    "main.d6cb5071.css.map": "/web-app-voice-react/static/css/main.d6cb5071.css.map",
-    "main.2116ce98.js.map": "/web-app-voice-react/static/js/main.2116ce98.js.map",
-    "453.54cde324.chunk.js.map": "/web-app-voice-react/static/js/453.54cde324.chunk.js.map"
+    "main.css": "/web-app-voice-react-remote/static/css/main.da1005d6.css",
+    "main.js": "/web-app-voice-react-remote/static/js/main.543c00ac.js",
+    "static/js/453.8a97def6.chunk.js": "/web-app-voice-react-remote/static/js/453.8a97def6.chunk.js",
+    "index.html": "/web-app-voice-react-remote/index.html",
+    "main.da1005d6.css.map": "/web-app-voice-react-remote/static/css/main.da1005d6.css.map",
+    "main.543c00ac.js.map": "/web-app-voice-react-remote/static/js/main.543c00ac.js.map",
+    "453.8a97def6.chunk.js.map": "/web-app-voice-react-remote/static/js/453.8a97def6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6cb5071.css",
-    "static/js/main.2116ce98.js"
+    "static/css/main.da1005d6.css",
+    "static/js/main.543c00ac.js"
   ]
 }
