@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/web-app-voice-remote/static/css/main.e32b2709.css",
-    "main.js": "/web-app-voice-remote/static/js/main.076f97bb.js",
+    "main.css": "/web-app-voice-remote/static/css/main.695a79b5.css",
+    "main.js": "/web-app-voice-remote/static/js/main.b68776e6.js",
     "static/js/453.8a97def6.chunk.js": "/web-app-voice-remote/static/js/453.8a97def6.chunk.js",
     "index.html": "/web-app-voice-remote/index.html",
-    "main.e32b2709.css.map": "/web-app-voice-remote/static/css/main.e32b2709.css.map",
-    "main.076f97bb.js.map": "/web-app-voice-remote/static/js/main.076f97bb.js.map",
+    "main.695a79b5.css.map": "/web-app-voice-remote/static/css/main.695a79b5.css.map",
+    "main.b68776e6.js.map": "/web-app-voice-remote/static/js/main.b68776e6.js.map",
     "453.8a97def6.chunk.js.map": "/web-app-voice-remote/static/js/453.8a97def6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e32b2709.css",
-    "static/js/main.076f97bb.js"
+    "static/css/main.695a79b5.css",
+    "static/js/main.b68776e6.js"
   ]
 }
