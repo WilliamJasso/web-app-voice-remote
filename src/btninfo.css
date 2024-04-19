@@ -103,3 +103,39 @@
   visibility: visible;
   pointer-events: auto;
 }
+
+/* Estilos para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+  .tooltip-container {
+    bottom: 20px; /* Ajustar la posición en la parte inferior */
+    right: 30px; /* Ajustar la posición a la derecha */
+    left: 30px; /* Ajustar la posición a la derecha */
+    padding: 0.5em 1em; /* Ajustar el padding */
+    font-size: 14px; /* Ajustar el tamaño de la fuente */
+    border-radius: 6px; /* Ajustar el radio del borde */
+    box-shadow: 0 0 5px 0 rgba(255, 255, 255, 0.5); /* Ajustar la sombra */
+  }
+
+  .tooltip {
+    padding: 25px; /* Ajustar el padding */
+    font-size: 12px; /* Ajustar el tamaño de la fuente */
+    transform: translateX(-50%) translateY(-85%);
+    border-radius: 10px;
+    border: 0;
+  }
+
+  .tooltip-title {
+    font-size: 19px; /* Ajustar el tamaño de la fuente */
+    margin-bottom: 8px; /* Ajustar el margen inferior */
+  }
+
+  .tooltip-item {
+    font-size: 15px; /* Ajustar el tamaño de la fuente */
+    margin-bottom: 4px; /* Ajustar el margen inferior */
+  }
+
+  .Logo img {
+    width: 30px; /* Ajustar el ancho de la imagen */
+    height: 30px; /* Ajustar la altura de la imagen */
+  }
+}

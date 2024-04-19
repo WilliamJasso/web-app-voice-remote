@@ -10,3 +10,12 @@
   font-weight: 600;
   background-color: #282c34;
 }
+
+/* Estilos para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+  .App-header {
+    font-size: calc(8px + 2vmin); /* Ajustar el tamaño de la fuente */
+    padding: 10px; /* Ajustar el padding */
+    width: 100vw; /* Establecer el ancho al 100% del viewport */
+  }
+}

@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import "./App.css";
-import Header from "./header";
 import BtnInfo from "./btninfo";
 
 function App() {
@@ -41,13 +40,15 @@ function App() {
 
   return (
     <div>
-      <Header />
+      
       <div className="App">
+        <div className="App-title">
         <p>Ordenes en tiempo real</p>
+        </div>
 
         <div id="result" className={`Result ${isDifferentOrder ? "recognized" : ""}`}>
           <p>
-            Última orden identificada: <strong>{latestOrder}</strong>
+            Última orden identificada:<br></br><strong>{latestOrder}</strong>
           </p>
         </div>
         <BtnInfo />

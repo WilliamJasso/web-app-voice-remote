@@ -7,13 +7,12 @@
   align-items: center;
   justify-content: center;
   width: 100vw; /* Establecer el ancho al 100% del viewport */
-  height: 90vh; /* Establecer la altura al 100% del viewport */
-  margin: 0; 
-  padding: 0; 
+  height: 100vh; /* Establecer la altura al 100% del viewport */
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-style: normal;
 }
+
 
 .Result {
   padding: 10px 50px;
@@ -29,10 +28,34 @@
   font-size: 25px;
   transition: all 0.5s ease;
   margin: 30px;
+  text-align: center;
 }
 
 .Result.recognized {
     background-color: hsla(212, 92%, 56%, 0.933);
     color: hsl(0, 0%, 100%);
     box-shadow: rgb(7, 114, 246) 0px 7px 29px 0px;
+}
+
+/* Estilos para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+  .App {
+    font-size: calc(8px + 2vmin); /* Ajustar el tamaño de la fuente */
+    display: flex; 
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw; /* Establecer el ancho al 100% del viewport */
+    height: 100vh; /* Establecer la altura al 100% del viewport */
+  }
+
+  .Result {
+    font-size: 20px; /* Ajustar el tamaño de la fuente */
+    padding: 25px;
+    margin: 60px; /* Ajustar el margen */
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
 }
