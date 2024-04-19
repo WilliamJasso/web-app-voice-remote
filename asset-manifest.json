@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/web-app-voice-remote/static/css/main.b3832c8f.css",
-    "main.js": "/web-app-voice-remote/static/js/main.8ccdf11b.js",
+    "main.css": "/web-app-voice-remote/static/css/main.46dc9146.css",
+    "main.js": "/web-app-voice-remote/static/js/main.9cebd65c.js",
     "static/js/453.8a97def6.chunk.js": "/web-app-voice-remote/static/js/453.8a97def6.chunk.js",
     "index.html": "/web-app-voice-remote/index.html",
-    "main.b3832c8f.css.map": "/web-app-voice-remote/static/css/main.b3832c8f.css.map",
-    "main.8ccdf11b.js.map": "/web-app-voice-remote/static/js/main.8ccdf11b.js.map",
+    "main.46dc9146.css.map": "/web-app-voice-remote/static/css/main.46dc9146.css.map",
+    "main.9cebd65c.js.map": "/web-app-voice-remote/static/js/main.9cebd65c.js.map",
     "453.8a97def6.chunk.js.map": "/web-app-voice-remote/static/js/453.8a97def6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3832c8f.css",
-    "static/js/main.8ccdf11b.js"
+    "static/css/main.46dc9146.css",
+    "static/js/main.9cebd65c.js"
   ]
 }
